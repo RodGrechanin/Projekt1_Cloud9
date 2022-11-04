@@ -1,7 +1,7 @@
-Titel:	    Dokumentation von Git/GitHub Repository
-Date:	    03.11.2022
-Author:	    Rod Grechanin
-Keywords:   Git, GitHub, Linux
+Titel:	    Dokumentation von Git/GitHub Repository</br>
+Date:	    03.11.2022</br>
+Author:	    Rod Grechanin</br>
+Keywords:   Git, GitHub, Linux</br>
 
 # Git Repository lokal erstellen
 [ArchWiki](https://wiki.archlinux.org "ArchWiki")
