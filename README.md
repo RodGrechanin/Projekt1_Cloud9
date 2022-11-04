@@ -5,7 +5,7 @@ Keywords:   Git, GitHub, Linux</br>
 
 # Git Repository lokal erstellen
 [ArchWiki](https://wiki.archlinux.org "ArchWiki")
-![Alt-Text](Bilder/android-chrome-512x512.png)
+![Alt-Text](https://github.com/RodGrechanin/Projekt1_Cloud9/blob/master/Bilder/android-chrome-512x512.png)
 
 
 
