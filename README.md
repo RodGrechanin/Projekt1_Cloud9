@@ -20,8 +20,8 @@ Keywords:   Git, GitHub, Linux</br>
     
 #### Ueberpruefen die Verbindung mit GitHub
 
-ssh -T git@github.com
-git remote add origin
+	ssh -T git@github.com
+	git remote add origin
 
 #### Erstellen Sie ein Verzeichnis mit dem Namen Projekt1
 
